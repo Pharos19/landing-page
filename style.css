@@ -6,17 +6,19 @@ body {
     font-family: sans-serif;
     position: relative;
     text-align: center;
+    background-color: #fdf8f5;
+    color: #4f4846;
 }
 header {
-    background-color: cornflowerblue;
+    background-color: rgb(50, 97, 79);
     position: fixed;
     top: 0;
     width: 100%;
     height: 80px;
-    border-bottom: 5px solid chocolate;
+    border-bottom: 5px solid rgb(179, 110, 62);
 }
 a {
-    color: chocolate;
+    color: rgb(255, 211, 180);
     text-decoration: none;
     font-size: 20px;
 }
@@ -28,7 +30,7 @@ main {
     margin: 50px -200px;
     padding: 200px;
     background: lightgray;
-    border: 6px solid lightcoral;
+    border: 6px solid rgb(85, 82, 82);
 }
 img {
     height: 400px;
@@ -58,7 +60,7 @@ button {
     width: 80px;
 }
 footer {
-    background-color: cornflowerblue;
+    background-color: rgb(123, 142, 177);
     margin: 50px -200px;
     padding: 25px;
     border: 4px solid chocolate;
